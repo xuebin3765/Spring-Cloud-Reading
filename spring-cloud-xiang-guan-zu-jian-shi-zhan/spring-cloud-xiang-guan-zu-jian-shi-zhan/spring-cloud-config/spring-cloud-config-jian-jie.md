@@ -1,8 +1,4 @@
----
-description: Spring Cloud 相关组件的使用、原理剖析以及源码分析
----
-
-# 初始页
+# Spring Cloud Config 简介
 
 ## Getting Super Powers
 
